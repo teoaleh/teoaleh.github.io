@@ -1,0 +1,19 @@
+
+
+
+h1{
+  text-align: center;
+padding-top: 150px;
+  }
+
+.wrapper{
+text-align: center;
+padding-top: 100px;
+
+
+}
+
+a:hover{
+  transform: scale(1.3);
+
+}
